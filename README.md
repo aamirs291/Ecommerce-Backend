@@ -2,14 +2,17 @@
 
 This Ecommerce Backend repository consists of links to other microservices which are being used in this application. 
 
-
-ProductService : https://github.com/aamirs291/Ecomm_ProductService
+ProductService : https://github.com/aamirs291/ProductService
 
 UserAuthenticationService : https://github.com/aamirs291/UserAuthenticationService
 
-EmailService : https://github.com/aamirs291/EmailService
+NotificationService : https://github.com/aamirs291/NotificationService
 
 PaymentService : https://github.com/aamirs291/PaymentService
+
+OrderService : https://github.com/aamirs291/OrderService
+
+CartService: https://github.com/aamirs291/CartService
 
 ServiceDiscovery : https://github.com/aamirs291/ServiceDiscovery
 
